@@ -1,2 +1,2 @@
 # text-file
-my text file of commits
+https://github.com/gilgildas/text-file
