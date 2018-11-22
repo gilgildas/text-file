@@ -1,0 +1,17 @@
+body{
+	background-color: #cccccc;
+	display: flex;
+	color: #fff;
+
+
+}
+h1{
+	font-size:18px;
+	text-align: center;
+
+}
+p{
+	line-height: 1.6;
+}
+
+
